@@ -3,7 +3,7 @@ html {
 }
 
 body {
-    font-family: system-ui,
+    font-family: system-ui;
 }
 
 div.container {
@@ -81,5 +81,9 @@ button:hover {
 }
 
 #status {
+    font-family: system-ui;
+}
+
+.source-code a {
     font-family: system-ui;
 }
